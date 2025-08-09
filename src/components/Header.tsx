@@ -27,7 +27,7 @@ export function Header({ onCurrencyChange, selectedCurrency = 'usd' }: HeaderPro
       <div className="container flex h-16 max-w-screen-2xl items-center justify-between">
         <div className="flex items-center gap-2">
           <svg 
-            xmlns="http://www.w3.org/2000/svg" 
+            xmlns="https://cdn-icons-png.flaticon.com/128/1777/1777715.png" 
             viewBox="0 0 24 24" 
             fill="none" 
             stroke="currentColor" 
